@@ -27,5 +27,4 @@ These five outputs map exactly to ISRO's stated Expected Outcomes from the BAH 2
 problem statement slides. Every section of this proposal, every line of our pipeline code, and every 
 dashboard tab is designed to answer the five questions ISRO explicitly asked students to feel proud of: 
 Where exactly is the ice? How to distinguish it from rock? Which sites are safe for landing? How can a 
-rover reach the target efficiently? And how much ice may actually exist? 
-2. PROBLEM STATEMENT & SCIENTIFIC MOTIVAT
+rover reach the target efficiently? And how much ice may actually exist?
