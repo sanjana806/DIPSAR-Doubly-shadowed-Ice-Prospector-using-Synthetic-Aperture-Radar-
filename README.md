@@ -1,0 +1,2 @@
+# DIPSAR-Doubly-shadowed-Ice-Prospector-using-Synthetic-Aperture-Radar-
+It ingests real  Chandrayaan-2 DFSAR (L-band Full Polarimetric) and OHRC data, detects and maps subsurface water ice in the lunar south polar region, selects optimal landing sites, plans an AI-driven energy-aware rover  traverse path, and estimates total ice volume in the top 5 metres — all delivered through an interactive  Flask web dashboard. 
