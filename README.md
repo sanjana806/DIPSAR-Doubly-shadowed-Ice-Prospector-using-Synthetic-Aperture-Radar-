@@ -9,7 +9,7 @@
 ## 📁 Repository Structure
 
 ```
-lunar_explorers/
+DIPSAR-Doubly-shadowed-Ice-Prospector-using-Synthetic-Aperture-Radar-/
 ├── data/                          # Raw Chandrayaan-2 OHRC data files
 │   ├── ch2_ohr_nrp_*_b_brw_d18.png    # OHRC browse image (8000×1024 px)
 │   ├── ch2_ohr_nrp_*_b_brw_d18.xml    # PDS4 metadata (browse)
